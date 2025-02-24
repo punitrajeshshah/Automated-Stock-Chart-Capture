@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Allow the combined stock chart folder to be tracked  
+!output/combined_stock_charts/  
+!output/combined_stock_charts/.gitkeep  
